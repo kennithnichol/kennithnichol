@@ -1,6 +1,6 @@
 # Ken Nichol – Technical Consultant, WordPress Engineer & Cloud-Ready Dev
 
-Welcome to my portfolio. I'm a Toptal-vetted WordPress and Full-stack specialist with 20+ years of development experience and 6+ years helping clients deliver faster, leaner, and more secure sites through strategic consulting and hands-on engineering.
+Welcome to my portfolio. I'm a Canadian Toptal-vetted WordPress and Full-stack specialist with 20+ years of development experience and 6+ years helping clients deliver faster, leaner, and more secure sites through strategic consulting and hands-on engineering.
 
 ## 🛠️ What I Do
 
