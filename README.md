@@ -11,6 +11,12 @@ Welcome to my portfolio. I'm a Canadian Toptal-vetted WordPress and Full-stack s
 
 ---
 
+### 💡 Mentorship
+
+I'm a **star mentor** with [Zero To Mastery](https://zerotomastery.io), helping developers build strong foundations and practical skills. I also contribute to the [ZTM GitHub](https://github.com/zero-to-mastery) repositories: especially during Hacktoberfest.
+
+---
+
 ## 📂 Case Studies
 
 | Project | Description |
